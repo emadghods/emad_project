@@ -7,7 +7,7 @@ public class Test {
 class haminjuri {
 
     public static void main(String[] args) {
-
+     int a ;
     }
 
 }
